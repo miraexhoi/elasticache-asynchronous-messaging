@@ -1,4 +1,4 @@
-package com.elasticache.messaging.global.redis;
+package com.elasticache.messaging;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

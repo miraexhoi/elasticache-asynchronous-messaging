@@ -1,6 +1,5 @@
 package com.elasticache.messaging;
 
-import com.elasticache.messaging.global.redis.RedisService;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
