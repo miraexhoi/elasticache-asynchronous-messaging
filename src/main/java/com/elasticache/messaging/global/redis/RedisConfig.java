@@ -1,4 +1,4 @@
-package com.elasticache.messaging.global;
+package com.elasticache.messaging.global.redis;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.boot.autoconfigure.data.redis.RedisProperties;

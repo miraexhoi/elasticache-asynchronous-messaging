@@ -1,4 +1,4 @@
-package com.elasticache.messaging.global;
+package com.elasticache.messaging.global.redis;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
